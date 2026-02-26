@@ -1,0 +1,1 @@
+print('Iftorga bir soat qoldi')
